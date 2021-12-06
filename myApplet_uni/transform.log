@@ -1,0 +1,28 @@
+miniprogram-to-uniapp v2 转换日志
+
+工具版本：v2.0.10
+转换模式：HBuilder X
+是否合并css：否
+项目 'myApplet' 开始转换...
+sourceFolder = E:\myApplet\myApplet
+搜索到237个文件，耗时：5ms
+
+write pages.json success!
+write manifest.json success!
+write main.js success!
+
+
+统计信息：
+
+vue文件数量: 11
+支付api数量: 0
+登录api数量: 0
+
+恭喜你，转换完成！
+用时: 4.011s
+在该小程序项目的同级目录可以看到_uni结尾的项目，即是转换好的uniapp项目，相关日志在该目录里。
+
+注：如有疑问，请添加QQ群(780359397、361784059、603659851)或https://github.com/zhangdaren/miniprogram-to-uniapp进行反馈！
+
+
+
