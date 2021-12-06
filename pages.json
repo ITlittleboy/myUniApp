@@ -1,0 +1,58 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {}
+		},
+		{
+			"path": "pages/userConsole/userConsole",
+			"style": {
+				"navigationBarTitleText": "用户管理指引"
+			}
+		},
+		{
+			"path": "pages/storageConsole/storageConsole",
+			"style": {
+				"navigationBarTitleText": "文件存储指引"
+			}
+		},
+		{
+			"path": "pages/databaseGuide/databaseGuide",
+			"style": {
+				"navigationBarTitleText": "数据库指引"
+			}
+		},
+		{
+			"path": "pages/deployFunctions/deployFunctions",
+			"style": {
+				"navigationBarTitleText": "部署云函数"
+			}
+		},
+		{
+			"path": "pages/openapi/openapi",
+			"style": {}
+		},
+		{
+			"path": "pages/openapi/serverapi/serverapi",
+			"style": {}
+		},
+		{
+			"path": "pages/openapi/callback/callback",
+			"style": {}
+		},
+		{
+			"path": "pages/openapi/cloudid/cloudid",
+			"style": {}
+		}
+	],
+	"sitemapLocation": "sitemap.json",
+	"style": "v2",
+	"globalStyle": {
+		"backgroundColor": "#F6F6F6",
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#F6F6F6",
+		"navigationBarTitleText": "云开发 QuickStart",
+		"navigationBarTextStyle": "black"
+	},
+	"subPackages": []
+}
